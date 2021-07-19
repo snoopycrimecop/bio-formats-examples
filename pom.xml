@@ -23,7 +23,7 @@
   </licenses>
 
   <properties>
-    <formats-gpl.version>6.6.1</formats-gpl.version>
+    <formats-gpl.version>6.7.0-SNAPSHOT</formats-gpl.version>
     <logback.version>1.2.0</logback.version>
 
     <!-- NB: Avoid platform encoding warning when copying resources. -->
